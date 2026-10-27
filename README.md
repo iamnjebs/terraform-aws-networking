@@ -54,7 +54,7 @@ terraform destroy
 
 # Evidence (embedded screenshots)
 
-)
+
 ![Terraform Plan](screenshots/03-terraform-plan.png)
 ![Terraform Apply](screenshots/04-terraform-apply.png)
 ![AWS VPC](screenshots/07-vpc.png)
@@ -76,6 +76,8 @@ from Git.
 # Cleanup
 
 terraform destroy
+
+![Public Route Table](screenshots/12-terraform-destory.png)
 
 # Author
 Cloud Engineering Njabulo Khumalo — MZ-UCA Cloud Academy
