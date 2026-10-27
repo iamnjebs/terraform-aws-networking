@@ -55,12 +55,19 @@ terraform destroy
 # Evidence (embedded screenshots)
 
 
+- Terraform Plan
 ![Terraform Plan](screenshots/03-terraform-plan.png)
+- Terraform Apply
 ![Terraform Apply](screenshots/04-terraform-apply.png)
+- AWS VPC
 ![AWS VPC](screenshots/07-vpc.png)
+- AWS Subnets
 ![AWS Subnets](screenshots/08-subnets.png)
+- Public Route Table
 ![Public Route Table](screenshots/09-public-route-table.png)
+- Private Route Table
 ![Private Route Table](screenshots/10-private-route-table.png)
+- NAT Gateway
 ![NAT Gateway](screenshots/11-nat-gateway.png)
 
 # Key Learning Outcomes
@@ -75,12 +82,12 @@ from Git.
 
 # Cleanup
 
-terraform destroy
+Terraform Destroy
 
 ![Public Route Table](screenshots/12-terraform-destory.png)
 
 # Author
-Cloud Engineering Njabulo Khumalo — MZ-UCA Cloud Academy
+Cloud Engineering Student (Njabulo Khumalo) — MZ-UCA Cloud Academy
 
 
 
