@@ -55,6 +55,8 @@ terraform destroy
 # Evidence (embedded screenshots)
 
 
+- Terraform Validation
+![Terraform Validation](screenshots/02-final-validation.png)
 - Terraform Plan
 ![Terraform Plan](screenshots/03-terraform-plan.png)
 - Terraform Apply
