@@ -5,4 +5,4 @@ tfplan
 crash.log
 crash.*.log
 *.tfvars.json
-override.tf.terraform/
+override.tf
